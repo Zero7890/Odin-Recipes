@@ -12,6 +12,10 @@ body {
    
 }
 
+.maincontainer img {
+    border: solid 2px white;
+}
+
 .mushroom {
     float:right;
     
